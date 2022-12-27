@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dryasinyildiz
 - 👀 I’m interested in learning coding and getting some software skills.
-- 🌱 I’m currently learning c#!
-- 💞️ I’m looking to collaborate on learning c# as begginer.
+- 🌱 I’m currently learning Swift!
+- 💞️ I’m looking to collaborate on learning Swift as begginer.
 - 📫 How to reach me: via mail: dryasinyildiz@gmail.com
 
 <!---
